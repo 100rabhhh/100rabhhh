@@ -68,4 +68,11 @@
 ![Projects Chart](https://img.shields.io/badge/PowerBI-5-brightgreen?style=flat&logo=powerbi&logoColor=white)
 ![Projects Chart](https://img.shields.io/badge/Excel-10-brightgreen?style=flat&logo=excel&logoColor=white)
 ![Projects Chart](https://img.shields.io/badge/Tableau-8-brightgreen?style=flat&logo=tableau&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/SQL-9-brightgreen?style=flat&logo=postgresql&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/HTML-6-brightgreen?style=flat&logo=html5&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/CSS-5-brightgreen?style=flat&logo=css3&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/JavaScript-4-brightgreen?style=flat&logo=javascript&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/PHP-3-brightgreen?style=flat&logo=php&logoColor=white)
+
+
 
