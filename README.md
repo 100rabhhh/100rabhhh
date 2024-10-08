@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **YOLO model of deep learning**
 
-- 🌱 I’m currently learning **Deep Learning and Natural Language Processing (NLP)**
+- 🌱 I’m currently learning **Deep Learning and Natural Language Processing (NLP), focusing on advanced models like YOLO, CNNs, and transformers to deepen my understanding of cutting-edge AI techniques.**
 
 - 👨‍💻 All of my projects are available at [https://100rabhhh.github.io/Sourabhsjha.github.io/](https://100rabhhh.github.io/Sourabhsjha.github.io/)
 
@@ -24,7 +24,29 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Your tool icons here -->
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="40" height="40" /></a>
+ <a href="https://tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-wordmark.svg" alt="tableau" width="40" height="40" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /></a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /></a>
+  <a href="https://www.opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
+  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">Achievements:</h3>
@@ -34,8 +56,16 @@
   <li>🏅 AWS Certified Solutions Architect – Associate</li>
 </ul>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">My GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=100rabhhh&show_icons=true&theme=radical" alt="100rabhhh's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=100rabhhh&theme=radical" alt="100rabhhh's GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=100rabhhh&show_icons=true&theme=radical" alt="100rabhhh" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=100rabhhh&show_icons=true&theme=radical" alt="100rabhhh" />
 </p>
+
+<h3 align="left">Projects Done in Different Languages and Tools:</h3>
+
+![Projects Chart](https://img.shields.io/badge/Python-7-brightgreen?style=flat&logo=python&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/PowerBI-5-brightgreen?style=flat&logo=powerbi&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/Excel-10-brightgreen?style=flat&logo=excel&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/Tableau-8-brightgreen?style=flat&logo=tableau&logoColor=white)
+
