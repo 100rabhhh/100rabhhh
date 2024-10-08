@@ -58,9 +58,15 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=100rabhhh&show_icons=true&theme=radical" alt="100rabhhh" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=100rabhhh&show_icons=true&theme=radical" alt="100rabhhh" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourabhjha&theme=radical" alt="Sourabhjha's Streak Stats" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=100rabhhh&show_icons=true&theme=radical" alt="100rabhhh" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=100rabhhh&show_icons=true&theme=radical" alt="100rabhhh" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourabhjha&theme=radical" alt="Sourabhjha's Streak Stats" />
+  </div>
 </p>
 
 <h3 align="left">Projects Done in Different Languages and Tools:</h3>
