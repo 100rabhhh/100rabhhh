@@ -49,6 +49,10 @@
   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40" /></a>
 </p>
 
+<p align="center"> 
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*tD5kEC2JYcKHH0zO.gif" alt="animated gif" />
+</p>
+
 <h3 align="left">Achievements:</h3>
 <ul>
   <li>🏅 HackerRank - SQL Silver Badge</li>
