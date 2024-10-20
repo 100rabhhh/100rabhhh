@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://100rabhhh.github.io/Sourabhsjha.github.io/](https://100rabhhh.github.io/Sourabhsjha.github.io/)
 
-- 📫 How to reach me **sourabhsjha1989@gmail.com**
+- 📫 How to reach me **sourabhsjha1980@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1QyHhoTIUbEfyT4bMJwt1n8DNA0druxeJ/view?pli=1)
 
