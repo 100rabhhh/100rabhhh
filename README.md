@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=100rabhhh&theme=onedark&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" alt="100rabhhh" /></a> </p>
 
-- 🔭 I’m currently working on **YOLO model of deep learning**
+- 🔭 I’m currently immersed in developing the **YOLO model for deep learning** in object detection, leveraging powerful frameworks like **TensorFlow** and **PyTorch** to push the boundaries of accuracy and efficiency in real-time applications.
 
-- 🌱 I’m currently learning **Deep Learning and Natural Language Processing (NLP), focusing on advanced models like YOLO, CNNs, and transformers to deepen my understanding of cutting-edge AI techniques.**
+- 🌱 I'm on a journey to master **Deep Learning and Natural Language Processing (NLP)**, concentrating on cutting-edge models such as **YOLO, Convolutional Neural Networks (CNNs), and Transformers**. My goal is to harness these advanced techniques to elevate my understanding and contribute to innovative AI solutions.
 
 - 👨‍💻 All of my projects are available at [https://100rabhhh.github.io/Sourabhsjha.github.io/](https://100rabhhh.github.io/Sourabhsjha.github.io/)
 
@@ -17,10 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sourabh-jha-b84010264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh-jha" height="30" width="40" /></a>
-<a href="https://kaggle.com/sourabhsjha1980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sourabh-jha-kaggle" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sourabhsjha1980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourabh-jha-hackerrank" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sourabh-jha-b84010264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh-jha" height="30" width="40" /></a>
+  <a href="https://kaggle.com/sourabhsjha1980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sourabh-jha-kaggle" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/sourabhsjha1980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourabh-jha-hackerrank" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sourabh.s.jha/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourabh-jha-instagram" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -63,27 +65,28 @@
 <h3 align="left">My GitHub Stats:</h3>
 <p align="left">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=100rabhhh&show_icons=true&theme=radical" alt="100rabhhh" />
+    <img src="https://github-readme-stats.vercel.app/api?username=100rabhhh&show_icons=true&theme=radical" alt="100rabhhh's GitHub Stats" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=100rabhhh&show_icons=true&theme=radical" alt="100rabhhh" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabhhh&layout=compact&show_icons=true&theme=radical" alt="100rabhhh's Top Languages" />
   </div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourabhjha&theme=radical" alt="Sourabhjha's Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=100rabhhh&theme=radical" alt="100rabhhh's Streak Stats" />
   </div>
 </p>
 
 <h3 align="left">Projects Done in Different Languages and Tools:</h3>
 
-![Projects Chart](https://img.shields.io/badge/Python-7-brightgreen?style=flat&logo=python&logoColor=white)
-![Projects Chart](https://img.shields.io/badge/PowerBI-5-brightgreen?style=flat&logo=powerbi&logoColor=white)
-![Projects Chart](https://img.shields.io/badge/Excel-10-brightgreen?style=flat&logo=excel&logoColor=white)
-![Projects Chart](https://img.shields.io/badge/Tableau-8-brightgreen?style=flat&logo=tableau&logoColor=white)
-![Projects Chart](https://img.shields.io/badge/SQL-9-brightgreen?style=flat&logo=postgresql&logoColor=white)
-![Projects Chart](https://img.shields.io/badge/HTML-6-brightgreen?style=flat&logo=html5&logoColor=white)
-![Projects Chart](https://img.shields.io/badge/CSS-5-brightgreen?style=flat&logo=css3&logoColor=white)
-![Projects Chart](https://img.shields.io/badge/JavaScript-4-brightgreen?style=flat&logo=javascript&logoColor=white)
-![Projects Chart](https://img.shields.io/badge/PHP-3-brightgreen?style=flat&logo=php&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/Python-14-brightgreen?style=flat&logo=python&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/PowerBI-11-brightgreen?style=flat&logo=powerbi&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/Excel-17-brightgreen?style=flat&logo=excel&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/Tableau-12-brightgreen?style=flat&logo=tableau&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/SQL-15-brightgreen?style=flat&logo=postgresql&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/HTML-4-brightgreen?style=flat&logo=html5&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/CSS-3-brightgreen?style=flat&logo=css3&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/JavaScript-5-brightgreen?style=flat&logo=javascript&logoColor=white)
+![Projects Chart](https://img.shields.io/badge/PHP-2-brightgreen?style=flat&logo=php&logoColor=white)
+
 
 
 
